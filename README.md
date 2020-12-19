@@ -11,4 +11,6 @@ You can see here that this a map of Central Maryland. If we were to pick several
 
 We could simplify these paths into a theoretical graph.
 
+![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%207.39.52%20PM.png)
+
 
