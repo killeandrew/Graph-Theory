@@ -20,5 +20,6 @@ The distances (in miles) between the cities are given in this adjacency list:
 Why don't we turn the adjacency list into an *adjacency matrix*?
 
                    [0 1 1 1]
-                   [1 0 1 1]
-                   
+               A = [1 0 1 1]
+                   [1 1 0 1]
+                   [1 1 1 0]
