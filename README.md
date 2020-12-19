@@ -13,4 +13,7 @@ We could simplify these paths into a theoretical graph.
 
 ![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%207.39.52%20PM.png)
 
+The distances (in miles) between the cities are given in this adjacency list:
+
+
 
