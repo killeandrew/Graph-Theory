@@ -20,6 +20,8 @@ The distances (in miles) between the cities are given in this adjacency matrix:
                A = [32 00 50 40]
                    [75 50 00 48]
                    [31 40 48 00]
+We can mess around with this array of numbers with some code.  
+
 The four files in this repository are:  
 
 vertex.py  
