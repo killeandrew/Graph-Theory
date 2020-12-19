@@ -23,3 +23,10 @@ Why don't we turn the adjacency list into an *adjacency matrix*?
                A = [32 00 50 40]
                    [75 50 00 48]
                    [31 40 48 00]
+The four files in this repository are:
+vertex.py
+edge.py
+graphadjacencylist.py
+graphtheory.py
+
+Enjoy!
