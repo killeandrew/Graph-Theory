@@ -1,5 +1,5 @@
 # Graph-Theory
-Repository that shows the fundamentals of Graph Theory. *Everything is coded in Python*
+## Repository that shows the fundamentals of Graph Theory. *Everything is coded in Python*
 
 
 ![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%206.50.52%20PM.png)
@@ -23,10 +23,15 @@ Why don't we turn the adjacency list into an *adjacency matrix*?
                A = [32 00 50 40]
                    [75 50 00 48]
                    [31 40 48 00]
-The four files in this repository are:
--vertex.py
--edge.py
--graphadjacencylist.py
--graphtheory.py
+The four files in this repository are:  
+
+vertex.py  
+
+edge.py  
+
+graphadjacencylist.py  
+
+graphtheory.py 
+
 
 Enjoy!
