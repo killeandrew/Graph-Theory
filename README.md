@@ -15,5 +15,10 @@ We could simplify these paths into a theoretical graph.
 
 The distances (in miles) between the cities are given in this adjacency list:
 
+![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%208.46.42%20PM.png)
 
+Why don't we turn the adjacency list into an *adjacency matrix*?
 
+                   [0 1 1 1]
+                   [1 0 1 1]
+                   
