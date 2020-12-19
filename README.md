@@ -3,3 +3,6 @@ Repository that shows the fundamentals of Graph Theory. *Everything is coded in 
 
 
 ![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%206.50.52%20PM.png)
+
+
+You can see here that this a map of Central Maryland. If we were to pick several paths between different cities like this:
