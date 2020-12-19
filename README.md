@@ -1,5 +1,6 @@
 # Graph-Theory
 ## Repository that shows the fundamentals of Graph Theory. *Everything is coded in Python*
+### Idea inspired and based off of https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/
 
 
 ![alt text](https://github.com/killeandrew/Graph-Theory/blob/main/Screen%20Shot%202020-12-18%20at%206.50.52%20PM.png)
